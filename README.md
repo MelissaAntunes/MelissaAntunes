@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 😸 Introducing Myself
 
 ### 📚 Projects
 
@@ -9,6 +9,6 @@ Welcome to my portfolio, where I showcase my [projects]().
 - SQL, Python
 - Power BI, Excel
 
-### 👋🏻 Connect with Me
+### 💬 Connect with Me
 
 - [Linkedin]()
