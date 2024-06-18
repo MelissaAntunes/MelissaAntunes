@@ -1,8 +1,6 @@
 ## 😸 Introducing Myself
 
-Hello! I'm Melissa, an aspirant Data Analyst based in Brazil. I have a passion for turning raw data into actionable insights  and helping organizations make data-driven decisions.
-
-I'm always eager to learn new techniques in data analysis and collaborate with others on impactful projects.
+Hello! I'm Melissa, an aspiring Data Analyst based in Brazil. I have a passion for turning raw data into actionable insights and am eager to start my career in data analysis. With a background in Information Technology, I have developed a solid foundation in data analysis techniques and tools.
 
 ### 📚 Projects
 
