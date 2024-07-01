@@ -6,7 +6,7 @@ Currently, I am focused on enhancing my skills through online courses and person
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/MelissaAntunes/Data-Analyst-Portfolio).
 
 ### 🛠️ Languages and tools
 
@@ -15,4 +15,4 @@ Welcome to my portfolio, where I showcase my [projects]().
 
 ### 💬 Connect with Me
 
-- [Linkedin]()
+- [Linkedin](www.linkedin.com/in/melissamantunes)
