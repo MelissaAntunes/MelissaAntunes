@@ -15,4 +15,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Melis
 
 ### 💬 Connect with Me
 
-- <a href="www.linkedin.com/in/melissamantunes/">LinkedIn <a/>
+- <a href="https://www.linkedin.com/in/melissamantunes/">LinkedIn <a/>
